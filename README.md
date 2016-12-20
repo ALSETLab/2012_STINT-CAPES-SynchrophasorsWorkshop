@@ -44,6 +44,7 @@
 A few pictures of the event are available in this repository, please follow this [(link)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/tree/master/02_pictures).
 
 Below is one of the presenters:
+
 <img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/02_pictures/00_presenters.JPG" alt="openPMU Demo" width="326" height="244">
 
 ## openPMU Demostration
