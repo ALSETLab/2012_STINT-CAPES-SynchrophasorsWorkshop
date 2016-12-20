@@ -43,6 +43,9 @@
 ## Pictures
 A few pictures of the event are available in this repository, please follow this [(link)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/tree/master/02_pictures).
 
+Below is one of the presenters:
+<img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/02_pictures/00_presenters.JPG" alt="openPMU Demo" width="326" height="244">
+
 ## openPMU Demostration
 <img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/03_openpmudemo/openPMUdemo.JPG" alt="openPMU Demo" width="326" height="244">
 
@@ -50,6 +53,3 @@ During this workshop, an [openPMU](https://sites.google.com/site/openpmu/) was s
   - openPMU sources used for the demonstration, [here](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/tree/master/03_openpmudemo/00_openPMUsources)
   - openPMU measurements taken in Sweden when the prototype was built and checked [(here)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/03_openpmudemo/01_measurements/2012-12-07_%24KT-H01.csv), and the measurements taken in Rio during the demonstration [(here)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/03_openpmudemo/01_measurements/2012-12-12_%24KT-H01.csv)
   - [Dr. David Laverty](http://www.qub.ac.uk/schools/eeecs/Connect/Staff/BusinessCard/?name=david.laverty) made available a Matlab file for converting the data, available [(here)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/03_openpmudemo/01_measurements/QUBread.m)
-
-
-
