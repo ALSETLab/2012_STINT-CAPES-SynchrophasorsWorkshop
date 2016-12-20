@@ -1,9 +1,14 @@
+[![DOI](https://zenodo.org/badge/76987736.svg)](https://zenodo.org/badge/latestdoi/76987736)
+
 # 1st RIO International Workshop on *"The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"*
 
 <img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/00_flyer.jpeg" alt="Flyer" width="216" height="306">
 
 - Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project “Development of Synchrophasor-Based Applications with Data Obtained from Emulated and Actual Power Systems”[(link)](http://www.stint.se/en/241/var/newsID/357).
 - December 12, 2012 Rio de Janeiro, Brazil
+
+# Citation:
+[![DOI](https://zenodo.org/badge/76987736.svg)](https://zenodo.org/badge/latestdoi/76987736)
 
 # Program and Presentations
   - Program: [here](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/00_flyer.pdf)
