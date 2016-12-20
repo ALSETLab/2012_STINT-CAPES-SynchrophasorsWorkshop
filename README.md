@@ -34,7 +34,7 @@
   
 7. Reliable network solutions enabling Smart Grid Applications
   - Dr. Christer Bohm, CTO Head of Innovation and co-founder of NetInsight
-  - Presentation: (here)[https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/01_presentations/07_netin.pdf]
+  - Presentation: [(here)](https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/01_presentations/07_netin.pdf)
 
 8. Real-Time Hardware-in-the-Loop Simulations
   - Luc-Angre Gregoire (Opal-RT - Canada)
