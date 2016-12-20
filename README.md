@@ -5,30 +5,29 @@
 - December 12, 2012 Rio de Janeiro, Brazil
 
 # Program and Presentations
-Welcome Address and Introduction
+1. Welcome Address and Introduction
+  - Prof. Glauco Taranto (COPPE/UFRJ - Brazil)
+  - Presentation: (here)[]
 
-Prof. Glauco Taranto (COPPE/UFRJ - Brazil)
+2. Developing Real-Time PMU Applications for Smart Transmission Grids in a RT HIL Lab
+  - Docent and Assistant Prof. Luigi Vanfretti (KTH Royal Institute of Technology – Sweden)
+  - Presentation: (here)[]
 
-Developing Real-Time PMU Applications for Smart Transmission Grids in a RT HIL Lab
+3. Steps toward the use of synchrophasors by the Brazilian ISO
+  - Dr. Renan Giovanini (ONS - Brazil)
+  - Presentation: (here)[]
 
-Docent and Assistant Prof. Luigi Vanfretti (KTH Royal Institute of Technology – Sweden)
+4. The MedFasee Project
+  - Prof. Aguinaldo Silva (UFSC – Brazil)
+  - Presentation: (here)[]
 
-Steps toward the use of synchrophasors by the Brazilian ISO
+5. Statnett’s Smart Grid R&D Strategy and Projects: PMU Deployment and WAMS Tools Development 
+  - Jan Ove Gjerde, Vice President of R&D (Statnett SF – Norway)
+  - Presentation not available.
 
-Dr. Renan Giovanini (ONS - Brazil)
-
-The MedFasee Project
-
-Prof. Aguinaldo Silva (UFSC – Brazil)
-
-Statnett’s Smart Grid R&D Strategy and Projects: PMU Deployment and WAMS Tools Development ** presentation not available **
-
-Jan Ove Gjerde, Vice President of R&D (Statnett SF – Norway)
-
-
-CEPEL’s new PMU Laboratory
-
-Dr. José Educardo R. Alves Jr. (CEPEL –Brazil)
+6. CEPEL’s new PMU Laboratory
+  - Dr. José Educardo R. Alves Jr. (CEPEL –Brazil)
+  - Presentation: ()[]
 
 Reliable network solutions enabling Smart Grid Applications
 
