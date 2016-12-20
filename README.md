@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/00_flyer.jpeg" alt="Flyer" width="216" height="306">
 
-- Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project
+- Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project “Development of Synchrophasor-Based Applications with Data Obtained from Emulated and Actual Power Systems”[(link)](http://www.stint.se/en/241/var/newsID/357).
 - December 12, 2012 Rio de Janeiro, Brazil
 
 # Program and Presentations
