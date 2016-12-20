@@ -1,9 +1,10 @@
-# 1st International Workshop - The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century
-## STINT-CAPES Swedish-Brazillian Collaboration Project
-## December 12, 2012 Rio, Brazil
+# 1st International Workshop on "The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"
 
-# Program
 
+- Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project
+- December 12, 2012 Rio de Janeiro, Brazil
+
+# Program and Presentations
 Welcome Address and Introduction
 Prof. Glauco Taranto (COPPE/UFRJ - Brazil)
 
