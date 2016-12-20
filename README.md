@@ -29,10 +29,10 @@
   - Dr. José Educardo R. Alves Jr. (CEPEL –Brazil)
   - Presentation: ()[]
 
-Reliable network solutions enabling Smart Grid Applications
+7. Reliable network solutions enabling Smart Grid Applications
+  - Dr. Christer Bohm, CTO Head of Innovation and co-founder of NetInsight
+  - Presentation: ()[]
 
-Dr. Christer Bohm, CTO Head of Innovation and co-founder of NetInsight
-
-Real-Time Hardware-in-the-Loop Simulations
-
-Luc-Angre Gregoire (Opal-RT - Canada)
+8. Real-Time Hardware-in-the-Loop Simulations
+  - Luc-Angre Gregoire (Opal-RT - Canada)
+  - Presentation: ()[]
