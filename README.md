@@ -1,5 +1,6 @@
-# 1st International Workshop on "The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"
+# 1st RIO International Workshop on "The use of Synchrophasors in Power Systems: An Indispensable Infrastructure in the 21st Century"
 
+<img src="https://github.com/SmarTS-Lab-Parapluie/2012_STINT-CAPES-SynchrophasorsWorkshop/blob/master/00_flyer.jpeg" alt="Flyer" width="216" height="306">
 
 - Facilitated through: STINT-CAPES Swedish-Brazillian Collaboration Project
 - December 12, 2012 Rio de Janeiro, Brazil
